@@ -12,3 +12,4 @@ Inspired by my use of Spacefn, I wanted to retain symmetric access to shift keys
 - [ ] numpad keys
 - [ ] GUI lockout
 - [ ] game mode? (remap left side keys to more traditional spots)
+- [ ] win-printscreen (take a screenshot) combo macro (location tbd)
